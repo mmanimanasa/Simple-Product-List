@@ -1,0 +1,62 @@
+[
+    {
+        "Id": "vogueandcode-pretty-girls-code-tee",
+        "Maker": "vogueandcode",
+        "img": "https://user-images.githubusercontent.com/41929050/61567062-14c4b300-aa33-11e9-9dcd-8bfed4ece810.png",
+        "Url": "https://www.vogueandcode.com/shop/pretty-girls-code-tee",
+        "Title": "Pretty Girls Code Tee",
+        "Description": "Everyones favorite design is finally here on a tee! The Pretty Girls Code crew-neck tee is available in a soft pink with red writing.",
+        "Ratings": null
+      },
+      {
+        "Id": "vogueandcode-ruby-sis-2",
+        "Maker": "vogueandcode",
+        "img": "https://user-images.githubusercontent.com/41929050/61567063-14c4b300-aa33-11e9-8515-bcb866da9ea3.png",
+        "Url": "https://www.vogueandcode.com/shop/ruby-sis-2",
+        "Title": "Ruby Sis",
+        "Description": "Styled in a dashiki, Ruby Sis is listening to music while coding in her favorite language, Ruby!",
+        "Ratings": null
+      },
+      {
+        "Id": "selinazawacki-moon",
+        "Maker": "selinazawacki",
+        "img": "https://user-images.githubusercontent.com/41929050/61567057-142c1c80-aa33-11e9-9781-9e442418eaab.png",
+        "Url": "https://www.instagram.com/p/BFktVYPinKQ/",
+        "Title": "Holographic Dark Moon Necklace",
+        "price" : "90",
+        "Description": "Not sure if Ill be making more, get it while I have it in the store.",
+        "Ratings": null
+      },
+      {
+        "Id": "selinazawacki-shirt",
+        "Maker": "selinazawacki",
+        "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+        "Url": "https://www.instagram.com/p/BEXlpiZCnJ3",
+        "Title": "Floppy Crop",
+        "price" : "90",
+        "Description": "Used up the Diskette fabric today to make 2 of these crops.",
+        "Ratings": null
+      },
+      {
+        "Id": "jenlooper-light",
+        "Maker": "jenlooper",
+        "img": "https://user-images.githubusercontent.com/41929050/61567049-13938600-aa33-11e9-9c69-a4184bf8e524.jpeg",
+        "Url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
+        "Title": "A beautiful switch-on book light",
+        "price" : "90",
+        "Description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark.",
+        "Ratings": null
+      },
+      {
+        "Id": "jenlooper-lightshow",
+        "Maker": "@jenlooper",
+        "img": "https://user-images.githubusercontent.com/41929050/61567053-13938600-aa33-11e9-9780-104fe4019659.png",
+        "Url": "https://www.hackster.io/agent-hawking-1/bling-your-laptop-with-an-internet-connected-light-show-30e4db",
+        "Title": "Bling your Laptop with an Internet-Connected Light Show",
+        "price" : "90",
+        "Description": "Create a web-connected light-strip API controllable from your website, using the Particle.io.",
+        "Ratings": null
+      }
+    
+    ]
+    

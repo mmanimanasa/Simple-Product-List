@@ -1,0 +1,58 @@
+.top {
+  display: grid;
+  grid-gap: 50px;
+  background-color: rosybrown;
+  grid-template-areas:
+    "hero  cta"
+}
+
+.cta {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-areas: 
+  "cta1"
+  "cta2"
+  "button"
+} 
+
+#d {
+  min-width : 200px;
+  height: 200px;
+  padding-top: 10px;
+}
+ 
+ /* .e-card-horizontal { */
+    /* box-shadow: 0 4px 8px 0 rgba(240, 12, 12, 0.2); */
+    /* width: 100%;
+    margin: 50px;
+    text-align: center;
+    font-family: arial;
+  }
+  .e-card-stacked {
+       margin: 70px; 
+    } */
+  
+  /* .e-card-horizontal button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: rgb(243, 245, 240);
+    background-color: rgb(233, 221, 229);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  } */
+  
+  /* .e-card-horizontal button:hover {
+    opacity: 0.7;
+  } */
+/*
+  #d {
+      min-width : 300px;
+      height : 300px;
+  }
+  /* .mm{
+      align-items: center;
+  } */
+   
