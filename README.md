@@ -14,9 +14,9 @@ Button component in this.
 
 ### Image Component
 
-We are taking the images of product from JSON file. Taking the image data in a different component makes easy to do the CSS 
+We are taking the images of product from JSON file. Taking the image data in a different component makes easy to do  
 
-part and also makes as reusable component also.
+the CSS part and also makes as reusable component also.
 
 ### Button Component
 
