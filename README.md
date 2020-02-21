@@ -20,15 +20,15 @@ part and also makes as reusable component also.
 
 ### Button Component
 
-In this a button is created which has the functinality of counting the number of clicks, which is used as like button. This component 
+In this a button is created which has the functinality of counting the number of clicks, which is used as like button. 
 
-is rendered in the Data Component.
+This component is rendered in the Data Component.
 
 ### Example Component
 
-This is the component which is been rendered in the App component and in this component itself we are rendering the Data and 
+This is the component which is been rendered in the App component and in this component itself we are rendering the  
 
-Image Components. 
+Data and Image Components. 
 
 
 
