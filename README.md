@@ -1,8 +1,18 @@
-This project was bootstrapped with (Create React App)
+## React App with product list and Cypress Testing. (https://mmanimanasa.github.io/React-productlist/)
 
 A react app of product list which is taking data from Json file with a like button which has the functinality of counting  
 
 the number of likes and for the proper view a property of CSS called grid is used.
+
+### Cypress test cases
+
+Cypress test cases are wriiten for the Button Component (file: cypress\integration\examples\home_page_specs.js), to check  
+
+all the data has been loaded are not (file:cypress\integration\examples\home-eq-contains.js)and also test case to  
+
+check wheather all the components are rendering or not by checking the number of elements in componenets 
+
+(file:cypress\integration\examples\app-init.spec.js)
 
 ## Available Components
 
