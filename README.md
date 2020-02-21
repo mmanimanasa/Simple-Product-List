@@ -1,8 +1,8 @@
 This project was bootstrapped with (Create React App)
 
-A react app of product list which is taking data from Json file with a like button which has the functinality of counting the number of 
+A react app of product list which is taking data from Json file with a like button which has the functinality of counting  
 
-likes and for the proper view a property of CSS called grid is used.
+the number of likes and for the proper view a property of CSS called grid is used.
 
 ## Available Components
 
