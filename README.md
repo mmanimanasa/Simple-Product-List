@@ -1,4 +1,6 @@
-## React App with product list and Cypress Testing. (https://mmanimanasa.github.io/React-productlist/)
+## React App with product list and Cypress Testing. 
+
+To see the working: (https://mmanimanasa.github.io/React-productlist/)
 
 A react app of product list which is taking data from Json file with a like button which has the functinality of counting  
 
